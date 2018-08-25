@@ -1,5 +1,3 @@
-#SRN: BP0153390
-#TASK 1
 import urllib
 import re
 # Import both libraries needed. re for regular expression and urllib.request for requesting and opening the url.
