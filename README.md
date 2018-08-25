@@ -5,4 +5,4 @@
 
 * It uses no external libraries and only urllib.request for making requests to the website.
 
-* Regular expression was used to get the desired fields from the LSE tables.
+* Regular expressions were used to get the desired fields from the LSE tables.
