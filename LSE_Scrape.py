@@ -26,8 +26,8 @@ def main():
     # These 3 lines format the regex functions and all the data inside of them into a table removing all the commas and apostrophes after each word
 main()
 
-#TASK 2
 #NOTE - When  inputting your desired indices please be aware it is case and space sensitive. 
+
 #To avoid getting an error message, keep the input name the same as it is on the LSE website.
 lse = 'http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/indices/ftse-indices.html'
 # create a variable called lse which contains the website with all the indices which I need to request data from.
