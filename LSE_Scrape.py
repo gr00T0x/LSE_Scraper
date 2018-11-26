@@ -1,4 +1,4 @@
-import urllib
+import urllib.request
 import re
 # Import both libraries needed. re for regular expression and urllib.request for requesting and opening the url.
 
