@@ -324,4 +324,3 @@ def indices():
         print ('ERROR. You have selected an index that does not exist. Please restart the program and try again.')
 # The else function is used to alert users if they type anything that is not part of the strings above with the elif functions it will print an error explaining why.
 indices()
-#Call task 2
